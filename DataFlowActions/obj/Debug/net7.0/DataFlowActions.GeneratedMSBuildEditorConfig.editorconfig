@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DataFlowActions
-build_property.ProjectDir = C:\Users\a.ragab\Source\Repos\DataFlowGit\DataFlowActions\
+build_property.ProjectDir = C:\Users\a.ragab\source\repos\DataFlowGit\DataFlowActions\

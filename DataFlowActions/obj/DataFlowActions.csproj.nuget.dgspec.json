@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a.ragab\\Source\\Repos\\DataFlowGit\\DataFlowActions\\DataFlowActions.csproj": {}
+    "C:\\Users\\a.ragab\\source\\repos\\DataFlowGit\\DataFlowActions\\DataFlowActions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a.ragab\\Source\\Repos\\DataFlowGit\\DataFlowActions\\DataFlowActions.csproj": {
+    "C:\\Users\\a.ragab\\source\\repos\\DataFlowGit\\DataFlowActions\\DataFlowActions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a.ragab\\Source\\Repos\\DataFlowGit\\DataFlowActions\\DataFlowActions.csproj",
+        "projectUniqueName": "C:\\Users\\a.ragab\\source\\repos\\DataFlowGit\\DataFlowActions\\DataFlowActions.csproj",
         "projectName": "DataFlowActions",
-        "projectPath": "C:\\Users\\a.ragab\\Source\\Repos\\DataFlowGit\\DataFlowActions\\DataFlowActions.csproj",
+        "projectPath": "C:\\Users\\a.ragab\\source\\repos\\DataFlowGit\\DataFlowActions\\DataFlowActions.csproj",
         "packagesPath": "C:\\Users\\a.ragab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a.ragab\\Source\\Repos\\DataFlowGit\\DataFlowActions\\obj\\",
+        "outputPath": "C:\\Users\\a.ragab\\source\\repos\\DataFlowGit\\DataFlowActions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
